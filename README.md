@@ -16,23 +16,23 @@ Currently pursuing B.Tech in Artificial Intelligence & Data Science at Priyadars
 ## 🚀 Featured Projects
 
 ### 🧭 PCE Campus Navigator
-A campus navigation platform designed to help students discover locations and access useful campus services.
+A campus navigation platform designed to help students and visitors discover campus locations and plan routes.
 
-**Focus:** Full-stack development, PostgreSQL, Google Maps integration, and AI-assisted campus information.
+[**Live Demo ↗**](https://pce-campus-navigator-rdzl1c0rr-antariksh-s-team.vercel.app/) · [**Source Code ↗**](https://github.com/antarikshmundle/pce-campus-navigator)
 
-[View Repository](https://github.com/antarikshmundle/pce-campus-navigator)
+### 🌱 Crop AI Analyzer
+An AI-powered agricultural project focused on crop analysis and presenting useful insights through an interactive application.
 
-### 🌱 AgriVerse — Crop AI Analyzer
-An agricultural technology project focused on AI-assisted crop recommendations and decision support.
-
-**Focus:** Machine learning, weather data integration, yield-related insights, and agricultural analytics.
+[**Live Demo ↗**](https://agriverse-crop-ai-analyzer.vercel.app/)
 
 ### 💻 Antariksh Portfolio
-My personal portfolio project, built to showcase my work, technical growth, and projects.
+My personal portfolio showcasing my projects, technical interests, and software development work.
 
-**Focus:** Next.js and modern web development.
+[**Live Portfolio ↗**](https://antariksh-portfolio-six.vercel.app/) · [**Source Code ↗**](https://github.com/antarikshmundle/Antariksh-Portfolio)
 
-[View Repository](https://github.com/antarikshmundle/Antariksh-Portfolio)
+---
+
+[**LinkedIn**](https://www.linkedin.com/in/antariksh-mundle/) · [**GitHub**](https://github.com/antarikshmundle)
 
 ---
 
