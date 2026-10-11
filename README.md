@@ -1,32 +1,73 @@
-Here’s a solid **GitHub Profile README** that reflects your skills, interests, and personality in a professional yet engaging way:  
+# Hey, I'm Antariksh Mundle 👋
 
-# 👋 Hey there! I’m **Antariksh Mundle**  
+### AI & Data Science Student | Software Developer | AI/ML Enthusiast
 
-🚀 **AI & Cybersecurity Enthusiast | Cloud Co-Lead | Tech Explorer**  
+I build practical software solutions that combine application development, data, and AI.
 
-Welcome to my GitHub! I’m a **B.Tech AI & Data Science** student at **Priyadarshini College of Engineering, Nagpur**, with a deep passion for **AI, Cybersecurity, Cloud Computing, and Finance**. I thrive on solving problems, experimenting with new technologies, and constantly learning.  
+Currently pursuing B.Tech in Artificial Intelligence & Data Science at Priyadarshini College of Engineering, Nagpur, India.
 
-### 🔹 **About Me**  
-- 🎓 **Pursuing B.Tech in AI & Data Science**  
-- ☁️ **Cloud Co-Lead** | Part of the **Technical Team** at PCE  
-- 🔐 **Passionate about AI-driven Cybersecurity & Ethical Hacking**  
-- 📈 **Active Stock Market Investor & Finance Enthusiast**  
-- 🎨 **Social Media Head @ Tuning Fork Club** & **Invitation Coordinator @ Sophia Forum**  
-- 💡 Always curious, always learning!  
+- 🔭 Building full-stack applications and AI-powered systems
+- 🧠 Exploring machine learning, data-driven solutions, and software engineering
+- 🛠️ Interested in turning real-world problems into usable products
+- 📚 Focused on writing better code, learning core CS concepts, and building in public
 
-### 🔥 **Tech Stack & Skills**  
-💻 **Languages:** Python, C, C++  
-⚡ **AI/ML:** TensorFlow, PyTorch (Learning Stage)  
-☁️ **Cloud:** AWS, Google Cloud (Exploring)  
-🔐 **Cybersecurity:** Ethical Hacking, OSINT, Bug Bounty (Learning)  
-📊 **Finance:** Stock Market Trading & Analysis  
+---
 
-### 📈 **What I’m Working On**  
-- 🏗 **Building AI-driven Security Models**  
-- 🚀 **Enhancing Cloud & DevOps Skills**  
-- 🎯 **Trading Strategies for Portfolio Growth**  
-- 🎤 **Improving Communication & Networking**
-- 
+## 🚀 Featured Projects
+
+### 🧭 PCE Campus Navigator
+A campus navigation platform designed to help students discover locations and access useful campus services.
+
+**Focus:** Full-stack development, PostgreSQL, Google Maps integration, and AI-assisted campus information.
+
+[View Repository](https://github.com/antarikshmundle/pce-campus-navigator)
+
+### 🌱 AgriVerse — Crop AI Analyzer
+An agricultural technology project focused on AI-assisted crop recommendations and decision support.
+
+**Focus:** Machine learning, weather data integration, yield-related insights, and agricultural analytics.
+
+### 💻 Antariksh Portfolio
+My personal portfolio project, built to showcase my work, technical growth, and projects.
+
+**Focus:** Next.js and modern web development.
+
+[View Repository](https://github.com/antarikshmundle/Antariksh-Portfolio)
+
+---
+
+## 🧰 Technologies
+
+**Languages**
+- Python
+- C / C++
+
+**Web Development**
+- Next.js
+- JavaScript and modern web technologies
+
+**Data & AI**
+- Machine Learning
+- Data Analysis
+- AI-powered application development
+
+**Tools & Platforms**
+- Git & GitHub
+- PostgreSQL
+- Google Maps Platform
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening data structures and algorithms
+- Building reliable full-stack applications
+- Improving machine learning fundamentals
+- Learning software architecture, testing, and clean code practices
+- Developing projects with practical use cases
+
+
+
 ### 📫 **Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antariksh-mundle/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antarikshmundle)  
