@@ -21,10 +21,15 @@ A campus navigation platform designed to help students and visitors discover cam
 [**Live Demo ↗**](https://pce-campus-navigator-rdzl1c0rr-antariksh-s-team.vercel.app/) · [**Source Code ↗**](https://github.com/antarikshmundle/pce-campus-navigator) · [**Start Backend ↗**](https://pce-campus-navigator-api.onrender.com/)
 ![PCE Campus Navigator — campus search and satellite map](https://raw.githubusercontent.com/antarikshmundle/pce-campus-navigator/main/campus-navigator.png.png)
 
-### 🌱 Crop AI Analyzer
-An AI-powered agricultural project focused on crop analysis and presenting useful insights through an interactive application.
+### 🌱 AgriVerse — Crop AI Analyzer
 
-[**Live Demo ↗**](https://agriverse-crop-ai-analyzer.vercel.app/)
+An AI-powered agricultural decision-support platform combining crop health analysis, yield forecasting, market intelligence, and financial insights.
+
+[**Open Application ↗**](https://agriverse-crop-ai-analyzer.vercel.app/)
+
+![AgriVerse login interface](https://raw.githubusercontent.com/antarikshmundle/agriverse-crop-ai-analyzer/main/agriverse-login.png)
+
+*Note: Full AI functionality depends on backend availability. The screenshot above shows the login interface, not live AI results.*
 
 ### 💻 Antariksh Portfolio
 My personal portfolio showcasing my projects, technical interests, and software development work.
